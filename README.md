@@ -1,4 +1,4 @@
-# yamnet onnx cpp audio classifcation
+# yamnet onnx cpp audio sppech classifcation
 ## 2025高通边缘智能创新应用大赛入围决赛方案-智能终端赛道[https://qc-ieiot-challenge.aidlux.com/2025/]
 ## Finalist Proposal for the 2025 Qualcomm Edge Intelligence Innovation Application Competition - Smart Terminal Track
 
